@@ -6,7 +6,7 @@
 // hidden: when the card has not been discovered yet
 
 $(document).ready(function(){
-
+//implemento
   
 });
 
